@@ -1,0 +1,140 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,700;1,600&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 0;
+  scroll-padding-top: 1rem;
+  scroll-behavior: smooth;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+h1 span {
+  color: #d90429;
+  display: flex;
+  align-items: center;
+}
+
+.submit {
+  align-items: center;
+  justify-content: center;
+}
+
+div .php {
+  align-items: center;
+}
+
+form .input .btn{
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 30px;
+}
+
+body {
+  max-width: 1400px;
+  margin: auto;
+  width: 100%;
+  min-height: 660px;
+  display: flex;
+  align-items: center;
+  background: url(img/blur.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center left;
+}
+
+div input {
+text-align: center;
+  width: 100%;
+box-sizing: border-box;
+line-height: 1.8;
+border-radius: 30px;
+}
+
+form {
+  width: 600px;
+  margin: 40px auto 0 auto;
+  padding: 20px;
+  box-shadow: 0 4px 8px 0 #d90429, 0 4px 8px 0 #020102;
+  border-radius: 2rem;
+  size: auto;
+  align-items: center;
+  height: auto;
+  margin-bottom: auto;
+  background-color: #fff;
+}
+
+h1 {
+  text-align: center;
+}
+
+.box1 {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  box-sizing: border-box;
+  margin: 10px 0 15px 0;
+  background-color: #cfcfcf;
+}
+
+.div1 {
+  display: inline-block;
+  width: 180px;
+}
+
+.box2 {
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  margin: 10px 0 15px 0;
+  background-color: #cfcfcf;
+}
+
+.btn {
+  padding: 10px 22px;
+  background: #d90429;
+  color: #fff;
+  font-weight: 800;
+  border-radius: 1.1rem;
+  margin: top;
+}
+
+.btn:hover {
+  background: #d46262;
+}
+
+.btn1 {
+  padding: 10px 22px;
+  background: #d90429;
+  color: #fff;
+  font-weight: 800;
+  border-radius: 1.1rem;
+  margin-left: 120px;
+}
+
+.btn1:hover {
+  background: #ff2222;
+}
+
+.pilihan {
+  width: 39%;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  box-sizing: border-box;
+  margin: 10px 0 15px 0;
+  background-color: #cfcfcf;
+}
+
+.file {
+  width: 39%;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+  box-sizing: border-box;
+  margin: 10px 0 15px 0;
+  background-color: #cfcfcf;
+}
